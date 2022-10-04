@@ -73,3 +73,9 @@ Lot 3 has a p-value lower than our .5 set point, one can conclude that this is a
 (.04 < .05)
 
 ---
+
+## Study Design: MechaCar vs Competition
+
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer:
+
+Metrics I'd consider would be horse power and safety ratings. A null hypothesis could be that the mean safety rating relative to horsepower is a star higher in the competitors lineup. A multiple linear regression can be done to show the relation between the HP and safety ratings across the companies product lines to prove whether they may correlate. A minimum of 30 logs of sample data from each company containing info on cost, horse power, and safety ratings would be needed to run an analysis.
