@@ -53,4 +53,15 @@ Total manufacturing variance rests well in the 100 PSI range at 62 PSI. However,
 
 ---
 
+## T-Tests on Suspension Coils
+
+![image](https://user-images.githubusercontent.com/105184244/193746560-df9c9762-2568-425d-ba12-801d08f8c2b2.png)
+
+![image](https://user-images.githubusercontent.com/105184244/193746636-e36c19d7-bdbf-493b-b1d2-7ce6509a53c1.png)
+
+![image](https://user-images.githubusercontent.com/105184244/193746753-720be544-7448-4eec-b133-296e05625c65.png)
+
+![image](https://user-images.githubusercontent.com/105184244/193746823-c96c1478-dc2f-4330-9aa2-cac02d953222.png)
+
+![image](https://user-images.githubusercontent.com/105184244/193746863-4e84946b-7948-488b-bce4-93989a1e9bf9.png)
 
