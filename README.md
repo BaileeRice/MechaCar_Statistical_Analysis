@@ -57,19 +57,19 @@ Total manufacturing variance rests well in the 100 PSI range at 62 PSI. However,
 
 ![image](https://user-images.githubusercontent.com/105184244/193746560-df9c9762-2568-425d-ba12-801d08f8c2b2.png)
 
-Based off the p-value, one can assume the all the lots as a whole fall within the normal range. .60 > .05
+Based off the p-value, one can assume the all the lots as a whole fall within the normal range. (.60 > .05)
 
 ![image](https://user-images.githubusercontent.com/105184244/193746753-720be544-7448-4eec-b133-296e05625c65.png)
 
-Similarly, lot 1 falls into the same category with a p-value of 1. 1 > .05
+Similarly, lot 1 falls into the same category with a p-value of 1. (1 > .05)
 
 ![image](https://user-images.githubusercontent.com/105184244/193746823-c96c1478-dc2f-4330-9aa2-cac02d953222.png)
 
-Lot 2 being the same way with little difference in distribution, its p-value being .6 relative to the .5 we're comparing this to. .60 > .05
+Lot 2 being the same way with little difference in distribution, its p-value being .6 relative to the .5 we're comparing this to. (.60 > .05)
 
 ![image](https://user-images.githubusercontent.com/105184244/193746863-4e84946b-7948-488b-bce4-93989a1e9bf9.png)
 
 Lot 3 has a p-value lower than our .5 set point, one can conclude that this is abnormal but interestingly, the mean still rests in the 95 percent confidence interval.
-.04 < .05
+(.04 < .05)
 
 ---
